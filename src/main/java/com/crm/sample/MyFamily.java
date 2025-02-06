@@ -11,11 +11,12 @@ public class MyFamily {
 	   System.out.println("Sister name is = Swagatika Pradhan"); 
    }
    public void Son() {
-	   System.out.println("ama mothfk millionaire"); 
+	   System.out.println("My name is = Soumya Ranjan Pradhan "
+	   		+ ""
+	   		+ ""); 
    }
    public static void main(String[] args) {
-	 System.out.println("WELCOME TO PRADHAN FAMILY");
-	 System.out.println("-------------------------------");
+	 System.out.println("---------WELCOME TO PRADHAN FAMILY----------");
 	 MyFamily mf = new MyFamily();
 	 mf.Father();
 	 mf.Mother();
